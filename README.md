@@ -18,12 +18,12 @@ With a positive and creative personality, loving the process of developing busin
 #### Language 
 ` Java` | `Kotlin` | `Javascript` | `Python` | `Php` | `Dart`
 
-### Domain/Framework:
-Android ----` MVP  | MVVM | Jetpack` <br>
+#### Domain/Framework
+Android ----` MVP  | MVVM | Jetpack | RemoteService` <br>
 Web ---- `React | NextJS | NodeJS`<br>
 AIoT ---- `TCP | UDP | MQTT | Socket`<br>
 AI ---- `Keras`<br>
-Backend ---- `Google | Azure | AWS | Kafka | Docker`<br>
+Backend ---- `Google | Azure | AWS | Kafka | Docker | Flask`<br>
 Database ---- `Elasticsearch | MongoDB | Firebase`
 
 ## Side projects
@@ -49,7 +49,7 @@ Database ---- `Elasticsearch | MongoDB | Firebase`
 `IoT`/`Java`/`Php`/`MongoDB`/`Docker`
 
 
-<h3>Contact me if you interest, any idea is also welcome  👍👍
+<h3>Contact me if there is any project you interested 🙂
 
 <!--
 **hchuang1990/hchuang1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
