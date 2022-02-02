@@ -21,35 +21,36 @@ With a positive and creative personality, loving the process of developing busin
 <hr/>
 
 ## Side projects
-####[LandID_in_Taiwan](https://play.google.com/store/apps/details?id=com.cochenct.cn_taiwan&hl=zh_TW&gl=US)
+#### [LandID_in_Taiwan](https://play.google.com/store/apps/details?id=com.cochenct.cn_taiwan&hl=zh_TW&gl=US)
 _Search engine and navigation by the Land ID in Taiwan_  
 `Java`/`MVVM`/`GoogleMap SDK`/`Elasticsearch`/`MongoDB`/`Docker`
 
-####[BOT_in_Taiwan](#)
+#### [BOT_in_Taiwan](#)
 _GIS platform showing the Public construction site_  
 `React`/`Python`/`Elasticsearch`/`Docker`
 
-####[Gtalk](#)
-_Dating App with voice talk ( VoIP ) and custom skin in launcher_
+#### [Gtalk](#)
+_Dating App with voice talk ( VoIP ) and custom skin in launcher_ 
 `Java`/`Python`/`MongoDB`/`Docker`
 
-####[Baccarat BaoBao](#)
-_Prediction App in Baccarat Card game with the Machine learning_
+#### [Baccarat BaoBao](#)
+_Prediction App in Baccarat Card game with the Machine learning_ 
 `Java`/`Python`/`MongoDB`/`Docker`/`Keras`
 
-####[DatingDoll](#)
-_Dating App with the doll machine_
+#### [DatingDoll](#)
+_Dating App with the doll machine_ 
 `Java`/`Python`/`MongoDB`/`Docker`
 
-####[QBO](#)
-_IoT system & line-up app in the billiards room_
+#### [QBO](#)
+_IoT system & line-up app in the billiards room_ 
 `IoT`/`Java`/`React`/`MongoDB`/`Docker`
 
-####[ITBox](#)
-_AI trash can, convening for the citizen_
+#### [ITBox](#)
+_AI trash can, convening for the citizen_ 
 `IoT`/`Java`/`Php`/`MongoDB`/`Docker`
 
-Contact me if you interest, any idea is also welcome  👍👍
+
+<h3>Contact me if you interest, any idea is also welcome  👍👍
 
 <!--
 **hchuang1990/hchuang1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
