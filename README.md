@@ -16,15 +16,15 @@ With a positive and creative personality, loving the process of developing busin
 
 ## Skill
 #### Language 
-` Java` | `Kotlin` | `Javascript` | `Python` | `Php` | `Dart`
+` Java`   `Kotlin`   `Javascript`   `Python`   `Php`   `Dart`
 
 #### Domain/Framework
-Android ----` MVP  | MVVM | Jetpack | RemoteService` <br>
-Web ---- `React | NextJS | NodeJS`<br>
-AIoT ---- `TCP | UDP | MQTT | Socket`<br>
+Android ----` MVP`  `MVVM`  `Jetpack`  `RemoteService` <br>
+Web ---- `React`  `NextJS`  `NodeJS`  `Electron`<br>
+AIoT ---- `TCP`  `UDP`  `MQTT`  `Socket`  `WebAPI`<br>
 AI ---- `Keras`<br>
-Backend ---- `Google | Azure | AWS | Kafka | Docker | Flask`<br>
-Database ---- `Elasticsearch | MongoDB | Firebase`
+Backend ---- `Google`  `Azure`  `AWS`  `Kafka`  `Docker`  `Flask`<br>
+Database ---- `Elasticsearch`  `MongoDB`  `Firebase`
 
 ## Side projects
 #### [LandID_in_Taiwan](https://play.google.com/store/apps/details?id=com.cochenct.cn_taiwan&hl=zh_TW&gl=US) - _Search engine and navigation by the Land ID in Taiwan_
