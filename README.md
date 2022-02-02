@@ -5,11 +5,7 @@
   Team Leader of Android, Web, IoTService in Start-Up. 
 </h3>
 
-<p align="center">
-  <code>Android</code> / 
-    <code>Web</code> / 
-     <code>AIoT</code>
-</p>
+<hr>
 
 ## About me
 <p>
@@ -18,7 +14,17 @@ Good at analyzing commercial demand, countermeasures and proposing specific tech
 With a positive and creative personality, loving the process of developing business applications from 0 to 1. Responsible for large-scale projects including AIoT system development, smart speaker development, dating software development, public sector land inspection system development, web GIS development, Advertising platform, data mining and analysis platform, etc.
 </p>
 
-<hr/>
+## Skill
+#### Language 
+` Java` | `Kotlin` | `Javascript` | `Python` | `Php` | `Dart`
+
+### Domain/Framework:
+Android ----` MVP  | MVVM | Jetpack` <br>
+Web ---- `React | NextJS | NodeJS`<br>
+AIoT ---- `TCP | UDP | MQTT | Socket`<br>
+AI ---- `Keras`<br>
+Backend ---- `Google | Azure | AWS | Kafka | Docker`<br>
+Database ---- `Elasticsearch | MongoDB | Firebase`
 
 ## Side projects
 #### [LandID_in_Taiwan](https://play.google.com/store/apps/details?id=com.cochenct.cn_taiwan&hl=zh_TW&gl=US) - _Search engine and navigation by the Land ID in Taiwan_
