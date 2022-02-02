@@ -1,4 +1,18 @@
-### Hi there 👋
+<h3 align="center">
+  Hi, I am Zack Huang.👋👋👋  <br> Team Leader of Android, Web, IoTService in Start-Up. 
+</h3>
+
+<p align="center">
+  <code>Android</code> / 
+    <code>Web</code> / 
+     <code>AIoT</code>
+</p>
+
+<p align="center">
+  Urban planning and design background, but with more than 7 years of programming experience.<br/>
+    Urban planning and design background, but with more than 7 years of programming experience, good at analyzing market demand, countermeasures and proposing specific technical solutions, and some dabbling in aesthetics and user experience.<br/>
+With a positive and creative personality, loving the process of developing business applications from 0 to 1. He is responsible for large-scale projects including AIoT system development, smart speaker development, dating software development, public sector land inspection system development, web GIS development, Advertising platform, data mining and analysis platform, etc.
+</p>
 
 <!--
 **hchuang1990/hchuang1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
