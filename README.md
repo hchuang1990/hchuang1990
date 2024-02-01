@@ -31,17 +31,34 @@ Database ---- `Elasticsearch`  `MongoDB`  `Firebase`
 Land Administration Assistance System, By utilizing AI-assisted specialized technologies, we enable people in related fields to complete complicated tasks more easily. This includes simple assessment reports, legal data collection, spatial data mapping, and business model learning.
 `NextJS / OAuth / Redux / Tailwind / Redux-thunk / SWR / Mongoose / Material-tailwind/ Firebase / RevenueCat`
 
-#### Hotel Task Management System [💪💪💪 Product owner and Fullstack]
+#### [Hotel Task Management System](#) 💪💪💪 Product owner and Fullstack
 The hotel's multi-dimensional task integration management system, both mobile and desktop, helps optimize the use of human resources.
 `ReactJS / NodeJS / Redux / Redux-thunk / Mongoose / MUI / Websocket / MQTT / Express-session / MongoDB / Elasticsearch / Redis / VAPT`
 
-#### Disturber console [💪💪💪 Product owner & Fullstack]
+#### [Disturber console](#) 💪💪💪 Product owner & Fullstack
 A web for disturber to set up, test, and monitor hotel Aiello products.
 `NextJS / OAuth / Redux / Tailwind / Redux-thunk / Mongoose / Material-tailwind/ Firebase / RevenueCat / MongoDB / Elasticsearch`
 
-#### Meeting AI Assistance [💪 Frontend ]
+#### [Meeting AI Assistance](#) 💪 Frontend
 A meeting ai, which can record, transcript and summary the detail on the meeting. Helping people to more focus the interaction between attendence.
 `NextJS / OAuth / Redux / Tailwind / Redux-thunk`
+
+#### [Action system for intelligent management of land resources in industrial parks of the Industrial Bureau of the Ministry of Economic Affairs](#) 💪  Frontend & App
+經濟部工業局產業園區土地資源調查系統 App + Web
+`Android/ JWT /NextJS / Mongoose`
+
+#### [Taipei City Catering Industry Pollution Prevention and Control Audit System](#) 💪  Frontend & App
+台北市餐飲業汙染防治管制稽查系統, App + Web
+`Android/ JWT / NextJS / Mongoose`
+
+#### [Taipei City Stationary Pollution Source Patrol Intelligent Management System](#) 💪💪  Fullstack
+台北市環保局固定汙染源巡查系統
+Android/ JWT / NextJS / Mongoose / FastAPI / Docker
+
+#### [Entrusted construction of Taipei City's intelligent early warning management system. Web & App](#) 💪💪 Fullstack
+台北市環保局固定汙染源焚化廠排放預警系統 Web
+JWT / NextJS / LineNotfiy / Mongoose 
+
 
 #### [LandID_in_Taiwan](https://play.google.com/store/apps/details?id=com.cochenct.cn_taiwan&hl=zh_TW&gl=US) - _Search engine and navigation by the Land ID in Taiwan_
 `Java`/`MVVM`/`GoogleMap SDK`/`Elasticsearch`/`MongoDB`/`Docker`
