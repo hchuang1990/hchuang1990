@@ -10,13 +10,16 @@
 ## About me
 <p>
   Urban planning and design background, but with more than 7 years of programming experience.<br/>
-Good at analyzing commercial demand, countermeasures and proposing specific technical solutions, and some dabbling in aesthetics and user experience.<br/><br/>
-With a positive and creative personality, loving the process of developing business applications from 0 to 1. Responsible for large-scale projects including AIoT system development, smart speaker development, dating software development, public sector land inspection system development, web GIS development, Advertising platform, data mining and analysis platform, etc.
+- Senior full-stack engineer with over 7 years working with Java, Python, and JavaScript.
+- Familiar with design and developing applications and architectures toward business product, also provide the framework for mobile apps, front-end to scaling up.
+- An early core member of Aiello, build up the Android and front-end teams, successfully launching more than 5 products and core projects.
+- Capable of leading technical teams and collaborating with external partners, having witnessed and contributed to the company's growth from 10 to over 60 employees.
+- Extensive experience throughout the entire product development to market launch cycle, successfully introducing products in both domestic and international markets.
 </p>
 
 ## Skill
 #### Language 
-` Java`   `Kotlin`   `Javascript`   `Python`   `Php`   `Dart`
+` Java`  `Javascript`   `Python`  `Dart`  `Kotlin`  `Php` 
 
 #### Domain/Framework
 Android ----` MVP`  `MVVM`  `Jetpack`  `RemoteService` <br>
@@ -24,7 +27,10 @@ Web ---- `React`  `NextJS`  `NodeJS`  `Electron`<br>
 AIoT ---- `TCP`  `UDP`  `MQTT`  `Socket`  `WebAPI`<br>
 AI ---- `Keras`<br>
 Backend ---- `Google`  `Azure`  `AWS`  `Kafka`  `Docker`  `Flask`<br>
-Database ---- `Elasticsearch`  `MongoDB`  `Firebase`
+Database ---- `Elasticsearch`  `MongoDB`  `Firebase`<br>
+CS ---- `Azure(Logic-App` `API Management` `Docker Registry`  `K8S`  `AppService`  `GCP (VM, Oauth)`<br>
+Message broker (client-side) ---- `SignalR`  `IoTCore`  `Kafka`  `Web-Socket`<br>
+Security　---- `Cloudflare` `SSL`<br>
 
 ## Collection of works
 #### [TWLand-Copliot](#) 💪💪💪 Product owner and Fullstack
