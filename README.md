@@ -26,7 +26,23 @@ AI ---- `Keras`<br>
 Backend ---- `Google`  `Azure`  `AWS`  `Kafka`  `Docker`  `Flask`<br>
 Database ---- `Elasticsearch`  `MongoDB`  `Firebase`
 
-## Side projects
+## Collection of works
+#### TWLand-Copliot [💪💪💪 Product owner and Fullstack]
+Land Administration Assistance System, By utilizing AI-assisted specialized technologies, we enable people in related fields to complete complicated tasks more easily. This includes simple assessment reports, legal data collection, spatial data mapping, and business model learning.
+`NextJS / OAuth / Redux / Tailwind / Redux-thunk / SWR / Mongoose / Material-tailwind/ Firebase / RevenueCat`
+
+#### Hotel Task Management System [💪💪💪 Product owner and Fullstack]
+The hotel's multi-dimensional task integration management system, both mobile and desktop, helps optimize the use of human resources.
+`ReactJS / NodeJS / Redux / Redux-thunk / Mongoose / MUI / Websocket / MQTT / Express-session / MongoDB / Elasticsearch / Redis / VAPT`
+
+#### Disturber console [💪💪💪 Product owner & Fullstack]
+A web for disturber to set up, test, and monitor hotel Aiello products.
+`NextJS / OAuth / Redux / Tailwind / Redux-thunk / Mongoose / Material-tailwind/ Firebase / RevenueCat / MongoDB / Elasticsearch`
+
+#### Meeting AI Assistance [💪 Frontend ]
+A meeting ai, which can record, transcript and summary the detail on the meeting. Helping people to more focus the interaction between attendence.
+`NextJS / OAuth / Redux / Tailwind / Redux-thunk`
+
 #### [LandID_in_Taiwan](https://play.google.com/store/apps/details?id=com.cochenct.cn_taiwan&hl=zh_TW&gl=US) - _Search engine and navigation by the Land ID in Taiwan_
 `Java`/`MVVM`/`GoogleMap SDK`/`Elasticsearch`/`MongoDB`/`Docker`
 
@@ -49,7 +65,7 @@ Database ---- `Elasticsearch`  `MongoDB`  `Firebase`
 `IoT`/`Java`/`Php`/`MongoDB`/`Docker`
 
 
-<h3>Contact me if there is any project you interested 🙂
+<h3>Contact me if there is any project you are interested 🙂
 
 <!--
 **hchuang1990/hchuang1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
