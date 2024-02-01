@@ -10,12 +10,12 @@
 ## About me
 <p>
   Urban planning and design background, but with more than 7 years of programming experience.<br/>
+</p>
 - Senior full-stack engineer with over 7 years working with Java, Python, and JavaScript.
-- Familiar with design and developing applications and architectures toward business product, also provide the framework for mobile apps, front-end to scaling up.
-- An early core member of Aiello, build up the Android and front-end teams, successfully launching more than 5 products and core projects.
+- Familiar with designing and developing applications and architectures for business products, also providing the framework for mobile apps, front-end to scaling up.
+- An early core member of Aiello, building up the Android and front-end teams, successfully launching more than 5 products and core projects.
 - Capable of leading technical teams and collaborating with external partners, having witnessed and contributed to the company's growth from 10 to over 60 employees.
 - Extensive experience throughout the entire product development to market launch cycle, successfully introducing products in both domestic and international markets.
-</p>
 
 ## Skill
 #### Language 
