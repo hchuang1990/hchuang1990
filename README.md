@@ -3,7 +3,7 @@
 </h2>
 <h3 align="center">
   Tech Lead of Application in Start-Up.<br/>
-  Specialized in driving development and implementation of mobile and frontend tech from POC to Production.
+  Specialized in mobile and frontend solutions from POC to Production.
 </h3>
 
 <hr>
