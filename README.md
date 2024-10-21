@@ -12,7 +12,7 @@
 <p>
   Urban planning and design background, but with more than 7 years of programming experience.<br/>
 </p>
-- Senior full-stack engineer with over 7 years working with Java, Python, and JavaScript.<br/>
+- Senior full-stack engineer with over 7 years working with Java, Flutter, Python, and JavaScript.<br/>
 - Familiar with designing and developing applications and architectures for business products, also providing the framework for mobile apps, front-end to scaling up.<br/>
 - An early core member of Aiello, building up the Android and front-end teams, successfully launching more than 5 products and core projects.<br/>
 - Capable of leading technical teams and collaborating with external partners, having witnessed and contributed to the company's growth from 10 to over 60 employees.<br/>
@@ -20,7 +20,7 @@
 
 ## Skill
 #### Language 
-` Java`  `Javascript`   `Python`  `Dart`  `Kotlin`  `Php` 
+` Java`  `Javascript`  `Flutter`  `Python`  `Dart`  `Kotlin`  `Php` 
 
 #### Domain/Framework
 Android ----` MVP`  `MVVM`  `Jetpack`  `RemoteService` <br>
