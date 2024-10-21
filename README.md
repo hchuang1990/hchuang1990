@@ -2,7 +2,7 @@
   Hi, I am Zack Huang.👋👋👋
 </h2>
 <h3 align="center">
-  Team Leader of Android, Web, IoTService in Start-Up. 
+  Tech Lead of Application in Start-Up. Specialized in driving development and implementation of mobile and frontend tech from POC to Production.
 </h3>
 
 <hr>
