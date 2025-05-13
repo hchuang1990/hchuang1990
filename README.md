@@ -1,35 +1,26 @@
 <h2 align="center">
   Hi, I am Zack Huang.👋👋👋
 </h2>
-<h3 align="center">
-  Tech Lead of Application in Start-Up.<br/>
-  Specialized in mobile and frontend solutions from POC to Production.
-</h3>
 
 <hr>
 
 ## About me
-<p>
-  Urban planning and design background, but with more than 7 years of programming experience.<br/>
-</p>
 - Senior full-stack engineer with over 7 years working with Java, Flutter, Python, and JavaScript.<br/>
 - Familiar with designing and developing applications and architectures for business products, also providing the framework for mobile apps, front-end to scaling up.<br/>
-- An early core member of Aiello, building up the Android and front-end teams, successfully launching more than 5 products and core projects.<br/>
+- An early core member of start-up, building up the Android and front-end teams, successfully launching more than 5 products and core projects.<br/>
 - Capable of leading technical teams and collaborating with external partners, having witnessed and contributed to the company's growth from 10 to over 60 employees.<br/>
 - Extensive experience throughout the entire product development to market launch cycle, successfully introducing products in both domestic and international markets.<br/>
 
 ## Skill
 #### Language 
-` Java`  `Javascript`  `Flutter`  `Python`  `Dart`  `Kotlin`  `Php` 
+` Java`  `Javascript`  `Flutter`  `Python`  `Dart`  `Kotlin`
 
 #### Domain/Framework
 Android ----` MVP`  `MVVM`  `Jetpack`  `RemoteService` <br>
 Web ---- `React`  `NextJS`  `NodeJS`  `Electron`<br>
-AIoT ---- `TCP`  `UDP`  `MQTT`  `Socket`  `WebAPI`<br>
-AI ---- `Keras`<br>
-Backend ---- `Google`  `Azure`  `AWS`  `Kafka`  `Docker`  `Flask`<br>
+AIoT ---- `MQTT`  `Socket`  `WebAPI`<br>
+Backend ---- `Google`  `Azure`  `AWS`  `Kafka`  `Docker`  `FastAPI` <br>
 Database ---- `Elasticsearch`  `MongoDB`  `Firebase`<br>
-CS ---- `Azure(Logic-App` `API Management` `Docker Registry`  `K8S`  `AppService`  `GCP (VM, Oauth)`<br>
 Message broker (client-side) ---- `SignalR`  `IoTCore`  `Kafka`  `Web-Socket`<br>
 Security　---- `Cloudflare` `SSL`<br>
 
