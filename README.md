@@ -2,8 +2,6 @@
   Hi, I am Zack Huang.👋👋👋
 </h2>
 
-<hr>
-
 ## About me
 - Senior full-stack engineer with over 7 years working with Java, Flutter, Python, and JavaScript.<br/>
 - Familiar with designing and developing applications and architectures for business products, also providing the framework for mobile apps, front-end to scaling up.<br/>
